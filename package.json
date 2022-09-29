@@ -1,0 +1,26 @@
+{
+  "name": "wikimediafoundation-clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MugaboDenys/wikimediaFoundation-clone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MugaboDenys/wikimediaFoundation-clone/issues"
+  },
+  "homepage": "https://github.com/MugaboDenys/wikimediaFoundation-clone#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.12",
+    "postcss": "^8.4.16",
+    "tailwindcss": "^3.1.8",
+    "vite": "^3.1.4"
+  }
+}
